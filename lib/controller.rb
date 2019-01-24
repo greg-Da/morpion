@@ -1,6 +1,5 @@
 require 'view.rb'
 require 'game.rb'
-require 'player.rb'
 
 class Controller
 
